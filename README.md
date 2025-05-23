@@ -120,6 +120,7 @@ Você pode filtrar apenas pacotes TCP, UDP ou outros alterando o valor da variá
 ```
 ## 🧼 .gitignore
 Certifique-se de que o ambiente virtual e o arquivo .csv não sejam versionados:
+
     ```
     venv/
     estatisticas_trafego.csv
